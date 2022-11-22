@@ -6,4 +6,10 @@ public class App {
     final String BR = "Brasil";
     int ESTADOS_BRASILEIROS  = 27;
 
+    String meuNome = "Rafa";
+
+    int anoFabricacao = 2022;
+
+    boolean verdadeira = true;
+
 }
