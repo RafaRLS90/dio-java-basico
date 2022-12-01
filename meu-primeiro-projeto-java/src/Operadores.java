@@ -8,5 +8,19 @@ public class Operadores {
         char sexo = 'M';
         boolean doadorOrgao = false;
         Date dataNascimento = new Date();
+        int modulo = 18 % 3;
+
+        String nomeCompleto = "LINGUAGEM"+"JAVA";
+
+        System.out.printf(nomeCompleto);
+
+        int numero = 5;
+
+        numero = numero * -1;
+        
+         System.out.println(numero);
+     }
+
     }
-}
+
+

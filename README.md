@@ -12,3 +12,7 @@ Nome unico dentro de escopo
 long é uma palavra reservada.
 
 Tipo NomeBem Definido = Atribuição (opcional, em alguns casos)
+
+### Unários 
+
+Esses operadores são aplicados juntamente com outro operador aritmético. Eles realizam alguns trabalhos básicos, como incrementar, decrementar, inverter valores numéricos e booleanos.
