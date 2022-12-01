@@ -14,6 +14,8 @@ public class Operadores {
 
         System.out.printf(nomeCompleto);
 
+       //Exemplo de unários
+       
         int numero = 5;
 
         numero = numero * -1;
